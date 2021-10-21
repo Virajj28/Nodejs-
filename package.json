@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Virajj28/Nodejs-#readme",
   "dependencies": {
     "axios": "^0.23.0",
-    "jwt-decode": "^3.1.2"
+    "jwt-decode": "^3.1.2",
+    "keytar": "^7.7.0"
   },
   "devDependencies": {
     "electron": "^15.3.0"
