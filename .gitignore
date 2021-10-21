@@ -1,1 +1,4 @@
 *node_modules/*
+
+# hiding env vars
+env-variables.json
